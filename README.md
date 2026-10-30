@@ -116,9 +116,9 @@ Manages the chatbot's interactive behavior.
 
 ## 📂 Project Structure
 
-
+```
 Chatbot_project/
-│
+
 ├── index.html
 ├── style.css
 ├── script.js
@@ -128,13 +128,13 @@ Chatbot_project/
     ├── chatbot-home.png
     ├── chatbot-conversation.png
     └── chatbot-interface.png
-
+```
 
 ## 🚀 How to Run the Project
 
 **Step 1:** Clone the repository.
 ```bash
-git clone https://github.com/PAILABALASAIGOVARDHANI/Basic-Smart-Chatbot
+git clone https://github.com/PAILABALASAIGOVARDHANI/Basic-Chatbot
 ```
 
 **Step 2:** Open the project folder in VS Code.
