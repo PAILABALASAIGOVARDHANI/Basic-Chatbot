@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🤖Chatbot Web Application
 
 
@@ -128,7 +128,7 @@ Chatbot_project/
     ├── chatbot-home.png
     ├── chatbot-conversation.png
     └── chatbot-interface.png
-```
+
 
 ## 🚀 How to Run the Project
 
@@ -190,7 +190,4 @@ This project is created for educational and learning purposes.
 <p align="center">
   **Thank You for Visiting My Project! ❤️**
 </p>
-=======
-# Basic-Chatbot
- "A simple chatbot web application built using HTML, CSS, and JavaScript with an interactive user interface."  
->>>>>>> e101476845ca45336d1f45b22d7f84726d3da309
+
